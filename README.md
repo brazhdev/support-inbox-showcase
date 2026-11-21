@@ -2,7 +2,7 @@
 
 A shared customer-support inbox for teams that need the conversation, customer history and next action in one place.
 
-[![Demo](https://img.shields.io/badge/Demo-Open-3559e0?style=flat-square)](#demo) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
+[![Demo](https://img.shields.io/badge/Demo-Open-3559e0?style=flat-square)](https://support-inbox-demo-brazhdev.pages.dev/) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
 
 ![Conversation workspace](artifacts/portfolio/desktop/inbox.png)
 
@@ -43,4 +43,4 @@ Vue 3, TypeScript, Pinia, shadcn-vue and Tailwind CSS. The application backend u
 
 ## Demo
 
-Interactive demo coming soon.
+[Open the interactive demo](https://support-inbox-demo-brazhdev.pages.dev/). Choose a demo account on the sign-in screen.
